@@ -132,7 +132,7 @@ $ make
 
 
 ## Tests
-Unit tests are implemented using [Check](https://libcheck.github.io/check /), coverage report using [LCOV](https://github.com/linux-test-project/lcov )
+Unit tests are implemented using [Check](https://libcheck.github.io/check), coverage report using [LCOV](https://github.com/linux-test-project/lcov)
 ```
 $ git clone git@github.com:Dmitrii-Khramtsov/C_Decimal.git
 $ cd C_Decimal/src
