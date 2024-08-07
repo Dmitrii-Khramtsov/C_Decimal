@@ -1,9 +1,6 @@
 # C_Decimal
 
-Methods of the C_Decimal project,
-which implements a library for working with the "decimal" type.
-
-
+A solo project in which I implemented a library for working with the "decimal" type.
 
 ## Contents
 
@@ -127,7 +124,7 @@ Return value - code error:
 ```
 $ git clone git@github.com:Dmitrii-Khramtsov/C_Decimal.git
 $ cd C_Decimal/src
-$ make
+$ make all
 ```
 
 
